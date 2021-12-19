@@ -1,0 +1,42 @@
+{
+    "workbench.colorTheme": "Default Light+",
+    "files.autoGuessEncoding": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.formatOnSave": true,
+    "javascript.preferences.quoteStyle": "single",
+    "typescript.preferences.quoteStyle": "single",
+    "workbench.list.openMode": "doubleClick",
+    "editor.fontFamily": "'D2Coding'",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "java.home": "C:\\Program Files\\AdoptOpenJDK\\jdk-11.0.9.101-hotspot",
+    "java.configuration.runtimes": [
+      {
+        "name": "JavaSE-1.8",
+        "path": "C:\\Program Files\\AdoptOpenJDK\\jdk-8.0.275.1-hotspot",
+        "default": true
+      },
+      {
+        "name": "JavaSE-11",
+        "path": "C:\\Program Files\\AdoptOpenJDK\\jdk-11.0.9.101-hotspot"
+      }
+    ],
+    "spring-boot.ls.java.home": "C:\\Program Files\\Java\\jdk1.8.0_271",
+    "java.configuration.checkProjectSettingsExclusions": false,
+    "editor.largeFileOptimizations": false,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "java.jdt.ls.vmargs": "-XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -javaagent:\"c:\\Users\\SM_1747\\.vscode\\extensions\\gabrielbb.vscode-lombok-1.0.1\\server\\lombok.jar\"",
+    "editor.fontWeight": "normal",
+    "editor.fontLigatures": null,
+    "terminal.integrated.fontSize": 16,
+    "debug.console.fontSize": 16,
+    "editor.fontSize": 16,
+    "workbench.startupEditor": "welcomePage",
+    "java.project.importHint": false,
+    "spring-boot.ls.java.heap": "",
+    "boot-java.remote-apps": [],
+    "workbench.editor.untitled.hint": "hidden",
+    "editor.wordWrap": "on",
+    "redhat.telemetry.enabled": true,
+    "powermode.enabled": true
+}
